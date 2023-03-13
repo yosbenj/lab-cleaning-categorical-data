@@ -2,7 +2,7 @@
 
 # Lab | Cleaning categorical data
 
-For this lab, we will be using the dataset in the Customer Analysis Business Case. This dataset can be found in `files_for_lab` folder. In this lab we will explore categorical data.
+For this lab, we will be using the same notebook as in the previous lab.
 
 ## Data Analysis Process
 #### Remember the process:
@@ -17,8 +17,7 @@ For this lab, we will be using the dataset in the Customer Analysis Business Cas
 
 ### Instructions
 
-1. Import the necessary libraries load the data and start a new notebook.
-Using the same data as the previous lab: we_fn_use_c_marketing_customer_value_analysis.csv
+1. Open the notebook created for Lab-cleaning-numerical-data.
 
 2. Find  all of the categorical data.  Save it in a categorical_df variable.
 
